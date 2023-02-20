@@ -1,2 +1,2 @@
-# -mi
-æmi AI virtual assitant
+# æmi.ai
+æmi.ai virtual assitant
