@@ -1,5 +1,4 @@
-# 3D Human Model with Animation using Three JS
-
+# Aemi.AI
 Website : https://hmthanh.github.io/3d-human-model/
 
 ![My animated](demo_image.png)
